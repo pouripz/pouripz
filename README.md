@@ -1,6 +1,12 @@
-![MasterHead](https://i.pinimg.com/originals/38/bc/46/38bc4680ff8118238038195942744d91.gif)
+<h1 align="center">Hi 👋, I'm pouripz</h1>
+<h3 align="center">A passionate frontend developer ((=</h3>
 
-# 💫 About Me:
+![MacBook Air - 1](https://github.com/pouripz/pouripz/assets/134682861/54552768-f188-4601-8a34-619ed0f5ee4d)
+
+<img  width=400 align="right" alt="coding" src="https://i.pinimg.com/originals/38/bc/46/38bc4680ff8118238038195942744d91.gif">
+
+
+### 💫 About Me:
 🌱 I’m currently learning **JavaScript**<br><br> 💬 Ask me about **Html , css , Sass**<br><br>📫 How to reach me **pouriapzwork@gmail.com**
 
 ## 🌐 Socials:
