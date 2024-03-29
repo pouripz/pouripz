@@ -3,7 +3,7 @@
 
 ![MacBook Air - 1](https://github.com/pouripz/pouripz/assets/134682861/54552768-f188-4601-8a34-619ed0f5ee4d)
 
-<img  width=500 align="right" alt="coding" src="https://i.pinimg.com/originals/38/bc/46/38bc4680ff8118238038195942744d91.gif"><br>
+<img  width=500 align="right" alt="coding" src="https://github.com/pouripz/pouripz/assets/134682861/049aa636-9cac-499e-ad8f-4fdb71891944"><br>
 
 🌱 I’m currently learning **JavaScript**<br><br> 💬 Ask me about **Html , css , Sass**<br><br>📫 How to reach me **pouriapzwork@gmail.com** <br><br>🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/pouripz" target="_blank">Frontend Mentor!</a> 
 
